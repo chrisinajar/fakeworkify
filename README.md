@@ -1,5 +1,5 @@
 # Fakeworkify
-#### Mock implementation of webworkify for test cases
+Mock implementation of webworkify for test cases
 
 ## Installation
 `npm install --save-dev fakeworkify`
