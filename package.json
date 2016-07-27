@@ -1,6 +1,6 @@
 {
   "name": "fakeworkify",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A completely fake pure-JS clone of webworkify for use in CLI testcases",
   "main": "index.js",
   "scripts": {
