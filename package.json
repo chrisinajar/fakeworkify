@@ -1,0 +1,31 @@
+{
+  "name": "fakeworkify",
+  "version": "0.0.0",
+  "description": "A completely fake pure-JS clone of webworkify for use in CLI testcases",
+  "main": "index.js",
+  "scripts": {
+    "test": "semistandard && tape test.js | tap-spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/chrisinajar/fakeworkify.git"
+  },
+  "keywords": [
+    "web",
+    "worker",
+    "webworkify",
+    "mock",
+    "tests"
+  ],
+  "devDependencies": {
+    "semistandard": "^8.0.0",
+    "tap-spec": "^4.1.1",
+    "tape": "^4.6.0"
+  },
+  "author": "Chris Vickery <chrisinajar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisinajar/fakeworkify/issues"
+  },
+  "homepage": "https://github.com/chrisinajar/fakeworkify#readme"
+}
